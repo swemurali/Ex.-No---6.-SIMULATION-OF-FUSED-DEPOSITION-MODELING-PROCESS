@@ -64,8 +64,8 @@ Clean Up: Clean the print bed and remove any remaining filament from the extrude
 # OUTPUT:
 ![image](https://github.com/ASHWINKUMAR2903/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119407186/c86bddd3-0474-4f57-84e1-6e5fff8f6758)
 
-### Name: A.ASHWIN KUMAR
-### Register Number: 212222100006
+### Name: M.SUWETHA
+### Register Number: 212221230112
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
